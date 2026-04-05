@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+torch
+transformers
+tiktoken
+datasets
+matplotlib
+seaborn
+nltk
+fastapi
+uvicorn
